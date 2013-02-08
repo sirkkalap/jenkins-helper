@@ -1,0 +1,9 @@
+{
+  "name": "jenkins-helper",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "coffee-script": ">= 1.4.0",
+    "request": ">= 2.12",
+  }
+}
